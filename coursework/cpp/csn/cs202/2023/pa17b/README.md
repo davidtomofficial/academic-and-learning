@@ -1,4 +1,7 @@
 
+
+> **Collection snapshot.** Some original files remain in the reference archive (2 mapped files); this snapshot may not build or run. Original dates and learning claims below are historical. See the [source manifest](../../../../../../SOURCE-MANIFEST.json) and [coverage notes](../../../../../../RIGHTS-AND-PROVENANCE.md#material-retained-in-reference-archives).
+
 # pa17b
 
 > Historical educational example. See the [repository overview](../../../../../../provenance/cpp-examples/README.md) for context and current documentation status.
@@ -58,7 +61,7 @@ See the repository-local [contribution guide](../../../../../../provenance/cpp-e
 
 * **David Tom** - *Initial Work* - [davidtomofficial](https://github.com/davidtomofficial)
 
-See this repository's [commit history](https://github.com/davidtomofficial/cpp-Examples/commits/main/) for recorded changes. Additional authors and course-provided material remain credited in their respective files.
+The [source manifest](../../../../../../SOURCE-MANIFEST.json) records original revisions and paths. Full original history remains in the reference archives. Additional authors and course-provided material remain credited in their respective files.
 
 ## License
 

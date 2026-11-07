@@ -11,7 +11,7 @@ Historical SQL coursework covering database design, queries, and a final assignm
 
 ## Getting Started
 
-The [final assignment script](https://github.com/davidtomofficial/SQL/blob/ede1d19415bf5601dc7dfd95806976cfa4434458/SQL180/Final%20Assignment/cit180_david_tom_hwFinal.sql) identifies SQL Server as its target environment. Review the script and use a separate practice database before running it: it drops and recreates its example tables. The original coursework has not been retested against current database versions.
+The [final assignment script](../../coursework/sql/cit-180-library/cit180_david_tom_hwFinal.sql) identifies SQL Server as its target environment. Review the script and use a separate practice database before running it: it drops and recreates its example tables. The original coursework has not been retested against current database versions.
 
 Read the assignment README for the accompanying SQL script, report, and entity-relationship diagram.
 
@@ -23,7 +23,7 @@ See the repository-local [contribution guide](CONTRIBUTING.md) for reporting iss
 
 * **David Tom** - *Initial Work* - [davidtomofficial](https://github.com/davidtomofficial)
 
-See this repository's [commit history](https://github.com/davidtomofficial/SQL/commits/main/) for recorded changes. Additional authors and course-provided material remain credited in their respective files.
+The [source manifest](../../SOURCE-MANIFEST.json) records original revisions and paths. Full original history remains in the reference archives. Additional authors and course-provided material remain credited in their respective files.
 
 ## License
 
