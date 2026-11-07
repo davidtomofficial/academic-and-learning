@@ -39,7 +39,7 @@ No course origin is established for these Python experiments.
 
 | Project | Reviewed collection | Original source |
 | --- | --- | --- |
-| Tic-Tac-Toe experiment | [Browse snapshot](early-projects/tic-tac-toe/README.md) · 1 files | [Original snapshot](https://github.com/davidtomofficial/cpp-Examples/tree/b0251e163a63122b2633350189e172189aa52860/Personal%20Projects/TicTacToe) |
+| Tic-Tac-Toe experiment | [Browse snapshot](early-projects/tic-tac-toe/README.md) · 1 file | [Original snapshot](https://github.com/davidtomofficial/cpp-Examples/tree/b0251e163a63122b2633350189e172189aa52860/Personal%20Projects/TicTacToe) |
 | Community-app prototype | At origin; review pending | [Original snapshot](https://github.com/davidtomofficial/Web-App-Development/tree/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/App%20Development/Robindale%20YSA%20Ward) |
 
 ## Preservation and rights
