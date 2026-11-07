@@ -1,4 +1,7 @@
 ##### D. Tom 11/2023
+
+> **Collection snapshot.** Some original files remain in the reference archive (1 mapped file); this snapshot may not build or run. Original dates and learning claims below are historical. See the [source manifest](../../../SOURCE-MANIFEST.json) and [coverage notes](../../../RIGHTS-AND-PROVENANCE.md#material-retained-in-reference-archives).
+
 # <center> SynoSearcher: Article and Web Link Finder</center>
 
 > Historical learning project. See the [repository overview](../../../provenance/python/README.md), [contribution guide](../../../provenance/python/CONTRIBUTING.md), and [licensing notes](../../../provenance/python/README.md#license). The original notebook walkthrough and sample output are preserved below.

@@ -51,7 +51,7 @@ The descriptions below record original learning objectives and intended features
   - selection statements
   - selection sort algorithm
 
-- Recursive Demonstration: [pa15.cpp](https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa15/pa15.cpp)
+- Recursive Demonstration: [pa15.cpp — reference archive](../../RIGHTS-AND-PROVENANCE.md#material-retained-in-reference-archives)
   - proper code documentation
   - proper implementation of Makefiles
   - recursive functions
@@ -93,7 +93,7 @@ The descriptions below record original learning objectives and intended features
     - selection statements
     - and an appropriate output based on the validity of the program's operation.
 
-- Personal Projects - Tic Tac Toe: [Tic-Tac-Toe.cpp](https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/Personal%20Projects/TicTacToe/Tic-Tac-Toe.cpp)
+- Personal Projects - Tic Tac Toe: [Tic-Tac-Toe.cpp — reference archive](../../RIGHTS-AND-PROVENANCE.md#material-retained-in-reference-archives)
   - proper code documentation
   - AI vs AI, AI vs Human, and Human vs Human
   - AI Algorithms: Minimax with Alpha-Beta Cut Off & Random Selections
@@ -150,7 +150,7 @@ See the repository-local [contribution guide](CONTRIBUTING.md) for reporting iss
 
 * **David Tom** - *Initial Work* - [davidtomofficial](https://github.com/davidtomofficial)
 
-See this repository's [commit history](https://github.com/davidtomofficial/cpp-Examples/commits/main/) for recorded changes. Additional authors and course-provided material remain credited in their respective files.
+The [source manifest](../../SOURCE-MANIFEST.json) records original revisions and paths. Full original history remains in the reference archives. Additional authors and course-provided material remain credited in their respective files.
 
 ## License
 
@@ -160,7 +160,7 @@ The existing licensing statement is retained:
 
 Read the [GNU GPL version 3 text](https://www.gnu.org/licenses/gpl-3.0.html). This repository currently has no local `LICENSE` file. Earlier READMEs linked to a license in the separate GitHub profile repository; that file is not a project-local license.
 
-Some bundled material has separate attribution: [linked-list tests](https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa17b/LList-test.cxx) and [stack tests](https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa18/Stack-test.cxx) credit Kevin Mess, and [Vector.h](https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa13/Vector.h) describes material adapted from the CSN CS202 shared directory. Those attributions must be preserved; this update does not establish permission to relicense third-party material.
+Some bundled material has separate attribution: [linked-list tests — reference archive](../../RIGHTS-AND-PROVENANCE.md#material-retained-in-reference-archives) and [stack tests — reference archive](../../RIGHTS-AND-PROVENANCE.md#material-retained-in-reference-archives) credit Kevin Mess, and [Vector.h — reference archive](../../RIGHTS-AND-PROVENANCE.md#material-retained-in-reference-archives) describes material adapted from the CSN CS202 shared directory. Those attributions must be preserved; this update does not establish permission to relicense third-party material.
 
 Existing file-specific notices and third-party attribution remain unchanged. The maintainer still needs to document the scope of the repository-level statement, confirm the version wording where file-specific notices do not already settle it, and add the appropriate local license text. This documentation update does not change existing licensing terms.
 

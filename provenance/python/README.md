@@ -11,7 +11,7 @@ Historical Python learning projects and experiments by [David Tom](https://githu
 
 ## Getting Started
 
-Clone or download this repository and read the selected project's README before installing dependencies. The original `googleSearch.py` header names Python 3.6; the SynonymSearcher notebook records Python 3.11.3. These are historical environment details, not a verified current compatibility range. Use the [SynonymSearcher notebook](https://github.com/davidtomofficial/Python/blob/16200d10e41010ae04567db2d468329ad46f7977/SynonymSearcher/SynonymSearcher.ipynb) for that project; its `.py` export includes IPython-specific commands.
+Clone or download this repository and read the selected project's README before installing dependencies. The original `googleSearch.py` header names Python 3.6; the SynonymSearcher notebook records Python 3.11.3. These are historical environment details, not a verified current compatibility range. Use the [SynonymSearcher notebook — reference archive](../../RIGHTS-AND-PROVENANCE.md#material-retained-in-reference-archives) for that project; its `.py` export includes IPython-specific commands.
 
 ### Historical prerequisites
 
@@ -48,7 +48,7 @@ See the repository-local [contribution guide](CONTRIBUTING.md) for reporting iss
 
 * **David Tom** - *Initial Work* - [davidtomofficial](https://github.com/davidtomofficial)
 
-See this repository's [commit history](https://github.com/davidtomofficial/Python/commits/main/) for recorded changes. Additional authors and course-provided material remain credited in their respective files.
+The [source manifest](../../SOURCE-MANIFEST.json) records original revisions and paths. Full original history remains in the reference archives. Additional authors and course-provided material remain credited in their respective files.
 
 ## License
 

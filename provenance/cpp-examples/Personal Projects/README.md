@@ -67,7 +67,7 @@ See the repository-local [contribution guide](../CONTRIBUTING.md) for reporting 
 
 * **David Tom** - *Initial Work* - [davidtomofficial](https://github.com/davidtomofficial)
 
-See this repository's [commit history](https://github.com/davidtomofficial/cpp-Examples/commits/main/) for recorded changes. Additional authors and course-provided material remain credited in their respective files.
+The [source manifest](../../../SOURCE-MANIFEST.json) records original revisions and paths. Full original history remains in the reference archives. Additional authors and course-provided material remain credited in their respective files.
 
 ## License
 
