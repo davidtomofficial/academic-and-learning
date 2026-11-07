@@ -1,0 +1,1761 @@
+[
+  {
+    "source_repository": "davidtomofficial/Python",
+    "source_path": "CONTRIBUTING.md",
+    "source_commit": "16200d10e41010ae04567db2d468329ad46f7977",
+    "source_blob_sha": "fb9dce9682ff8763068f4ddafb6e7f8986f944d5",
+    "destination": "provenance/python/CONTRIBUTING.md",
+    "project_group": null,
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/Python/blob/16200d10e41010ae04567db2d468329ad46f7977/CONTRIBUTING.md",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Python",
+    "source_path": "README.md",
+    "source_commit": "16200d10e41010ae04567db2d468329ad46f7977",
+    "source_blob_sha": "28438b97e70da24e636780512498116ff5530e82",
+    "destination": "provenance/python/README.md",
+    "project_group": null,
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/Python/blob/16200d10e41010ae04567db2d468329ad46f7977/README.md",
+    "changes": [
+      "Resolved Markdown navigation against prepared copies or exact original snapshots"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/Python",
+    "source_path": "SynonymSearcher/README.md",
+    "source_commit": "16200d10e41010ae04567db2d468329ad46f7977",
+    "source_blob_sha": "bf226b2aab2224e022442d4cfed3488273ce0f8c",
+    "destination": "independent-learning/python/synonym-searcher/README.md",
+    "project_group": "python-synonym-searcher",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/Python/blob/16200d10e41010ae04567db2d468329ad46f7977/SynonymSearcher/README.md",
+    "changes": [
+      "Resolved Markdown navigation against prepared copies or exact original snapshots"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/Python",
+    "source_path": "SynonymSearcher/SynonymSearcher.ipynb",
+    "source_commit": "16200d10e41010ae04567db2d468329ad46f7977",
+    "source_blob_sha": "62d94b0cbced8eda8dee3570d2d97b9c2f358519",
+    "destination": "independent-learning/python/synonym-searcher/SynonymSearcher.ipynb",
+    "project_group": "python-synonym-searcher",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Python/blob/16200d10e41010ae04567db2d468329ad46f7977/SynonymSearcher/SynonymSearcher.ipynb",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Python",
+    "source_path": "SynonymSearcher/SynonymSearcher.py",
+    "source_commit": "16200d10e41010ae04567db2d468329ad46f7977",
+    "source_blob_sha": "6340c75f479bbc32bf7850f61ba43b1befcf6928",
+    "destination": "independent-learning/python/synonym-searcher/SynonymSearcher.py",
+    "project_group": "python-synonym-searcher",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/Python/blob/16200d10e41010ae04567db2d468329ad46f7977/SynonymSearcher/SynonymSearcher.py",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Python",
+    "source_path": "googleSearch/README.md",
+    "source_commit": "16200d10e41010ae04567db2d468329ad46f7977",
+    "source_blob_sha": "be68fd865b214e0e431e42ff28318ee7993cff85",
+    "destination": "independent-learning/python/google-search/README.md",
+    "project_group": "python-google-search",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/Python/blob/16200d10e41010ae04567db2d468329ad46f7977/googleSearch/README.md",
+    "changes": [
+      "Resolved Markdown navigation against prepared copies or exact original snapshots"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/Python",
+    "source_path": "googleSearch/googleSearch.py",
+    "source_commit": "16200d10e41010ae04567db2d468329ad46f7977",
+    "source_blob_sha": "67dd359a5fb3aef52ee03a6c04404e287b3be42c",
+    "destination": "independent-learning/python/google-search/googleSearch.py",
+    "project_group": "python-google-search",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/Python/blob/16200d10e41010ae04567db2d468329ad46f7977/googleSearch/googleSearch.py",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Python",
+    "source_path": "googleSearch/randomSearchTerms.txt",
+    "source_commit": "16200d10e41010ae04567db2d468329ad46f7977",
+    "source_blob_sha": "80e3ce30dbc13f854d0bfeb41d907c29c6c59d34",
+    "destination": "independent-learning/python/google-search/randomSearchTerms.txt",
+    "project_group": "python-google-search",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Python/blob/16200d10e41010ae04567db2d468329ad46f7977/googleSearch/randomSearchTerms.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/SQL",
+    "source_path": "CONTRIBUTING.md",
+    "source_commit": "ede1d19415bf5601dc7dfd95806976cfa4434458",
+    "source_blob_sha": "59af47df133db8c6bdad9fe30deff74c86f05a9d",
+    "destination": "provenance/sql/CONTRIBUTING.md",
+    "project_group": null,
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/SQL/blob/ede1d19415bf5601dc7dfd95806976cfa4434458/CONTRIBUTING.md",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/SQL",
+    "source_path": "README.md",
+    "source_commit": "ede1d19415bf5601dc7dfd95806976cfa4434458",
+    "source_blob_sha": "aaba872ddefb6b89310f99b5d4be849dae208741",
+    "destination": "provenance/sql/README.md",
+    "project_group": null,
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/SQL/blob/ede1d19415bf5601dc7dfd95806976cfa4434458/README.md",
+    "changes": [
+      "Resolved Markdown navigation against prepared copies or exact original snapshots"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/SQL",
+    "source_path": "SQL180/Final Assignment/README.md",
+    "source_commit": "ede1d19415bf5601dc7dfd95806976cfa4434458",
+    "source_blob_sha": "b4238fe4e6fce10da19838081e685157e4bccdd6",
+    "destination": "coursework/sql/cit-180-library/README.md",
+    "project_group": "sql-cit180-final",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/SQL/blob/ede1d19415bf5601dc7dfd95806976cfa4434458/SQL180/Final%20Assignment/README.md",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/SQL",
+    "source_path": "SQL180/Final Assignment/cit180_ERD_hwFinal.drawio.pdf",
+    "source_commit": "ede1d19415bf5601dc7dfd95806976cfa4434458",
+    "source_blob_sha": "af654e0a3645a53371b4c625bda39a17e0992b95",
+    "destination": "coursework/sql/cit-180-library/cit180_ERD_hwFinal.drawio.pdf",
+    "project_group": "sql-cit180-final",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/SQL/blob/ede1d19415bf5601dc7dfd95806976cfa4434458/SQL180/Final%20Assignment/cit180_ERD_hwFinal.drawio.pdf",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/SQL",
+    "source_path": "SQL180/Final Assignment/cit180_david_tom_hwFinal.docx",
+    "source_commit": "ede1d19415bf5601dc7dfd95806976cfa4434458",
+    "source_blob_sha": "421b6bce5760b0a1b098b3a7ee8421196d835f95",
+    "destination": "coursework/sql/cit-180-library/cit180_david_tom_hwFinal.docx",
+    "project_group": "sql-cit180-final",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/SQL/blob/ede1d19415bf5601dc7dfd95806976cfa4434458/SQL180/Final%20Assignment/cit180_david_tom_hwFinal.docx",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/SQL",
+    "source_path": "SQL180/Final Assignment/cit180_david_tom_hwFinal.sql",
+    "source_commit": "ede1d19415bf5601dc7dfd95806976cfa4434458",
+    "source_blob_sha": "9e291483bdd3768bc2722294e8a59ffea82383ce",
+    "destination": "coursework/sql/cit-180-library/cit180_david_tom_hwFinal.sql",
+    "project_group": "sql-cit180-final",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/SQL/blob/ede1d19415bf5601dc7dfd95806976cfa4434458/SQL180/Final%20Assignment/cit180_david_tom_hwFinal.sql",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/SQL",
+    "source_path": "SQL180/README.md",
+    "source_commit": "ede1d19415bf5601dc7dfd95806976cfa4434458",
+    "source_blob_sha": "74b09eba91398915f7de46693babe699b3cdc938",
+    "destination": "provenance/sql/SQL180/README.md",
+    "project_group": null,
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/SQL/blob/ede1d19415bf5601dc7dfd95806976cfa4434458/SQL180/README.md",
+    "changes": [
+      "Resolved Markdown navigation against prepared copies or exact original snapshots"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "CONTRIBUTING.md",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "d6e27c27e25ab0d5e535ae5e348ce409f4167c3c",
+    "destination": "provenance/cpp-examples/CONTRIBUTING.md",
+    "project_group": null,
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/CONTRIBUTING.md",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "Personal Projects/README.md",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "f0a15d5fc93b21abcbe0e99619135e494dc8bd8b",
+    "destination": "provenance/cpp-examples/Personal Projects/README.md",
+    "project_group": null,
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/Personal%20Projects/README.md",
+    "changes": [
+      "Resolved Markdown navigation against prepared copies or exact original snapshots"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "Personal Projects/TicTacToe/README.md",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "a8acb19723a55016a75705bd791023262c19a240",
+    "destination": "early-projects/tic-tac-toe/README.md",
+    "project_group": "cpp-tic-tac-toe",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/Personal%20Projects/TicTacToe/README.md",
+    "changes": [
+      "Resolved Markdown navigation against prepared copies or exact original snapshots"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "Personal Projects/TicTacToe/Tic-Tac-Toe.cpp",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "31b23f7540a4da166f0210a106a0e77e01f0e42c",
+    "destination": "early-projects/tic-tac-toe/Tic-Tac-Toe.cpp",
+    "project_group": "cpp-tic-tac-toe",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/Personal%20Projects/TicTacToe/Tic-Tac-Toe.cpp",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "Personal Projects/TicTacToe/Tic-Tac-Toe.exe",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "bd284a7af75e50c12019aebe075f0d819b6455d1",
+    "destination": "Personal Projects/TicTacToe/Tic-Tac-Toe.exe",
+    "project_group": "cpp-tic-tac-toe",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/Personal%20Projects/TicTacToe/Tic-Tac-Toe.exe",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "README.md",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "55b270e5f78ee16f33abf3f4cce9142817da02cf",
+    "destination": "provenance/cpp-examples/README.md",
+    "project_group": null,
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/README.md",
+    "changes": [
+      "Resolved Markdown navigation against prepared copies or exact original snapshots"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "finalB/README.md",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "ea70f535bd772bb7de0faff16d95b891ed07101a",
+    "destination": "coursework/cpp/csn/course-unconfirmed/2023/finalB/README.md",
+    "project_group": "cpp-finalB",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/finalB/README.md",
+    "changes": [
+      "Resolved Markdown navigation against prepared copies or exact original snapshots"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "finalB/finalB-data0.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "10e998dc41bb0950746f13ee2627b38a107b889c",
+    "destination": "coursework/cpp/csn/course-unconfirmed/2023/finalB/finalB-data0.txt",
+    "project_group": "cpp-finalB",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/finalB/finalB-data0.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "finalB/finalB.cpp",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "988b77a7bd1da32bb2ac5893e3bcc2b32092b386",
+    "destination": "coursework/cpp/csn/course-unconfirmed/2023/finalB/finalB.cpp",
+    "project_group": "cpp-finalB",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/finalB/finalB.cpp",
+    "changes": [
+      "Removed numeric student email identifier from source comment; author/course/date retained"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "midtermB/README.md",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "35a48c651d81bb720282b9c1ffcc73c7cfa22949",
+    "destination": "coursework/cpp/csn/cs135/2023/midtermB/README.md",
+    "project_group": "cpp-midtermB",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/midtermB/README.md",
+    "changes": [
+      "Resolved Markdown navigation against prepared copies or exact original snapshots"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "midtermB/midtermB.cpp",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "6a5810784b14978a3aa4756274d6b3bd9ca9d3e2",
+    "destination": "coursework/cpp/csn/cs135/2023/midtermB/midtermB.cpp",
+    "project_group": "cpp-midtermB",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/midtermB/midtermB.cpp",
+    "changes": [
+      "Removed numeric student email identifier from source comment; author/course/date retained"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "midtermB/test0.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+    "destination": "coursework/cpp/csn/cs135/2023/midtermB/test0.txt",
+    "project_group": "cpp-midtermB",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/midtermB/test0.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "midtermB/test1.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "abe4786998cc6a94bba2e9cd94b9c9468329ae18",
+    "destination": "coursework/cpp/csn/cs135/2023/midtermB/test1.txt",
+    "project_group": "cpp-midtermB",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/midtermB/test1.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "midtermB/test2.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "99e976f956a1a9e5ad11692dbf49332475c3d4b7",
+    "destination": "coursework/cpp/csn/cs135/2023/midtermB/test2.txt",
+    "project_group": "cpp-midtermB",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/midtermB/test2.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa08/README.md",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "6f3b081e931e9414002d2e61b7e0fbb60ad8042a",
+    "destination": "coursework/cpp/csn/course-unconfirmed/2023/pa08/README.md",
+    "project_group": "cpp-pa08",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa08/README.md",
+    "changes": [
+      "Resolved Markdown navigation against prepared copies or exact original snapshots"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa08/Wizard_of_Oz.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "6fe2138eed013388df3906d01b37d01f2fe86583",
+    "destination": "coursework/cpp/csn/course-unconfirmed/2023/pa08/Wizard_of_Oz.txt",
+    "project_group": "cpp-pa08",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa08/Wizard_of_Oz.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa08/pa08-CodedMessage0.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "30e4fa3dd28ce85875ff83233adad0859fa1f7a5",
+    "destination": "coursework/cpp/csn/course-unconfirmed/2023/pa08/pa08-CodedMessage0.txt",
+    "project_group": "cpp-pa08",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa08/pa08-CodedMessage0.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa08/pa08-CodedMessage1.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "6f735bf0e483ed75a4191915edede1bf12f4b67d",
+    "destination": "coursework/cpp/csn/course-unconfirmed/2023/pa08/pa08-CodedMessage1.txt",
+    "project_group": "cpp-pa08",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa08/pa08-CodedMessage1.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa08/pa08-CodedMessage2.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "1df9c6f27ff0b182d70f0f5e28025441a9ff1faa",
+    "destination": "coursework/cpp/csn/course-unconfirmed/2023/pa08/pa08-CodedMessage2.txt",
+    "project_group": "cpp-pa08",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa08/pa08-CodedMessage2.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa08/pa08-CodedMessage3.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "aa568ce5186630745f7fab06429a3e83ffac3a54",
+    "destination": "coursework/cpp/csn/course-unconfirmed/2023/pa08/pa08-CodedMessage3.txt",
+    "project_group": "cpp-pa08",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa08/pa08-CodedMessage3.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa08/pa08.cpp",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "752e0317446b995efaf9857fbaaeb9e5d3badc09",
+    "destination": "coursework/cpp/csn/course-unconfirmed/2023/pa08/pa08.cpp",
+    "project_group": "cpp-pa08",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa08/pa08.cpp",
+    "changes": [
+      "Removed numeric student email identifier from source comment; author/course/date retained"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa09/README.md",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "78c24c05d6f1ab31e2ec87d0389fb3a2fc70d459",
+    "destination": "coursework/cpp/csn/course-unconfirmed/2023/pa09/README.md",
+    "project_group": "cpp-pa09",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa09/README.md",
+    "changes": [
+      "Resolved Markdown navigation against prepared copies or exact original snapshots"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa09/pa09-data0.csv",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "f867dfc98617d7d24aa5e30b9ce9fed490ac04e3",
+    "destination": "coursework/cpp/csn/course-unconfirmed/2023/pa09/pa09-data0.csv",
+    "project_group": "cpp-pa09",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa09/pa09-data0.csv",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa09/pa09.cpp",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "2516df57a3ddee047f9854d4975e88f691762ab2",
+    "destination": "coursework/cpp/csn/course-unconfirmed/2023/pa09/pa09.cpp",
+    "project_group": "cpp-pa09",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa09/pa09.cpp",
+    "changes": [
+      "Removed numeric student email identifier from source comment; author/course/date retained"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa13/Makefile",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "1e5d9b31880c65116c8df4095d240247121823b0",
+    "destination": "coursework/cpp/csn/cs202/2023/pa13/Makefile",
+    "project_group": "cpp-pa13",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa13/Makefile",
+    "changes": [
+      "Removed numeric student email identifier from source comment; author/course/date retained"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa13/README.md",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "b250c54a30e32c412361456a68c7f302c7992ede",
+    "destination": "coursework/cpp/csn/cs202/2023/pa13/README.md",
+    "project_group": "cpp-pa13",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa13/README.md",
+    "changes": [
+      "Resolved Markdown navigation against prepared copies or exact original snapshots"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa13/Vector.cpp",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "9c076a03448921b7b85e032bfd4c61846609bed3",
+    "destination": "coursework/cpp/csn/cs202/2023/pa13/Vector.cpp",
+    "project_group": "cpp-pa13",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa13/Vector.cpp",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa13/Vector.h",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "4a3c8b05f13fbd8be4f004eb43594e5c0e00e022",
+    "destination": "coursework/cpp/csn/cs202/2023/pa13/Vector.h",
+    "project_group": "cpp-pa13",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa13/Vector.h",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa13/homemade-judge.sh",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "3bd320df86977554ee5e1b9f7723a674f69ed807",
+    "destination": "coursework/cpp/csn/cs202/2023/pa13/homemade-judge.sh",
+    "project_group": "cpp-pa13",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa13/homemade-judge.sh",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa13/pa13a-input0.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "d1e6cc01498df286fdccd221c54efe5fc1999b8c",
+    "destination": "coursework/cpp/csn/cs202/2023/pa13/pa13a-input0.txt",
+    "project_group": "cpp-pa13",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa13/pa13a-input0.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa13/pa13a-input1.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "5f14e3c2a1d16efc71b96f922c88aab7fd53915b",
+    "destination": "coursework/cpp/csn/cs202/2023/pa13/pa13a-input1.txt",
+    "project_group": "cpp-pa13",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa13/pa13a-input1.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa13/pa13a-input2.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "c0a062243421b7d31da80eb4b96da1bb367408c0",
+    "destination": "coursework/cpp/csn/cs202/2023/pa13/pa13a-input2.txt",
+    "project_group": "cpp-pa13",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa13/pa13a-input2.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa13/pa13a-input3.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "df22ce63ae1d35131d985c206b1e030c216a8491",
+    "destination": "coursework/cpp/csn/cs202/2023/pa13/pa13a-input3.txt",
+    "project_group": "cpp-pa13",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa13/pa13a-input3.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa13/pa13a-output0.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "1ccf95e92995b072023cc4a3f5e2b9638f380844",
+    "destination": "coursework/cpp/csn/cs202/2023/pa13/pa13a-output0.txt",
+    "project_group": "cpp-pa13",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa13/pa13a-output0.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa13/pa13a-output1.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "3e6b60b2f544c221615c70850e4aa136ba80f374",
+    "destination": "coursework/cpp/csn/cs202/2023/pa13/pa13a-output1.txt",
+    "project_group": "cpp-pa13",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa13/pa13a-output1.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa13/pa13a-output2.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "59777431a94331523903adf845f5f1d04518e13e",
+    "destination": "coursework/cpp/csn/cs202/2023/pa13/pa13a-output2.txt",
+    "project_group": "cpp-pa13",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa13/pa13a-output2.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa13/pa13a-output3.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "016b592b30ba74f1777111cd00d6b592d95d02bc",
+    "destination": "coursework/cpp/csn/cs202/2023/pa13/pa13a-output3.txt",
+    "project_group": "cpp-pa13",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa13/pa13a-output3.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa13/pa13a.cpp",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "88037cd4cc2b8924470c45d3343a05d3c692f18f",
+    "destination": "coursework/cpp/csn/cs202/2023/pa13/pa13a.cpp",
+    "project_group": "cpp-pa13",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa13/pa13a.cpp",
+    "changes": [
+      "Removed numeric student email identifier from source comment; author/course/date retained"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa13b/Makefile",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "44af05d66979928f9b9fba09fdc5c31ed77293ad",
+    "destination": "coursework/cpp/csn/cs202/2023/pa13b/Makefile",
+    "project_group": "cpp-pa13b",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa13b/Makefile",
+    "changes": [
+      "Removed numeric student email identifier from source comment; author/course/date retained"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa13b/README.md",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "e4fa021fa55d98f1a907cf18468a646da2afb3c6",
+    "destination": "coursework/cpp/csn/cs202/2023/pa13b/README.md",
+    "project_group": "cpp-pa13b",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa13b/README.md",
+    "changes": [
+      "Resolved Markdown navigation against prepared copies or exact original snapshots"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa13b/Vector.hpp",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "ede2250f51348e4a0e8d8e81f0f3f5f240c82f62",
+    "destination": "coursework/cpp/csn/cs202/2023/pa13b/Vector.hpp",
+    "project_group": "cpp-pa13b",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa13b/Vector.hpp",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa13b/homemade-judge.sh",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "c78e2e613284a9ee708d72739167785a2770aee3",
+    "destination": "coursework/cpp/csn/cs202/2023/pa13b/homemade-judge.sh",
+    "project_group": "cpp-pa13b",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa13b/homemade-judge.sh",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa13b/pa13b-input0.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "8864fc3631fe0d9f1ab2df2f3eaacecd71ce8635",
+    "destination": "coursework/cpp/csn/cs202/2023/pa13b/pa13b-input0.txt",
+    "project_group": "cpp-pa13b",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa13b/pa13b-input0.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa13b/pa13b-input1.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "de0aaad1c213d0423b92e2a975ffa715fe03bc18",
+    "destination": "coursework/cpp/csn/cs202/2023/pa13b/pa13b-input1.txt",
+    "project_group": "cpp-pa13b",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa13b/pa13b-input1.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa13b/pa13b-input2.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "04fe5f2c50da611cb63a9400b4ec5342bd356e11",
+    "destination": "coursework/cpp/csn/cs202/2023/pa13b/pa13b-input2.txt",
+    "project_group": "cpp-pa13b",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa13b/pa13b-input2.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa13b/pa13b-output0.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "70875b5f11142debe32e9273c9f2586ec85cb06a",
+    "destination": "coursework/cpp/csn/cs202/2023/pa13b/pa13b-output0.txt",
+    "project_group": "cpp-pa13b",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa13b/pa13b-output0.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa13b/pa13b-output1.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "d84ba768055dfe1f2b061bf19c6772fb3adf0c1a",
+    "destination": "coursework/cpp/csn/cs202/2023/pa13b/pa13b-output1.txt",
+    "project_group": "cpp-pa13b",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa13b/pa13b-output1.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa13b/pa13b-output2.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "179649b7c4372244e2672a4b6d246842e59a459a",
+    "destination": "coursework/cpp/csn/cs202/2023/pa13b/pa13b-output2.txt",
+    "project_group": "cpp-pa13b",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa13b/pa13b-output2.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa13b/pa13b.cpp",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "ed2f932fccbe70cc448a30d173eb9147590a7fe2",
+    "destination": "coursework/cpp/csn/cs202/2023/pa13b/pa13b.cpp",
+    "project_group": "cpp-pa13b",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa13b/pa13b.cpp",
+    "changes": [
+      "Removed numeric student email identifier from source comment; author/course/date retained"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa14/Makefile",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "c2da2f1d6e761f3e1e855087b3b01b7a3d57a538",
+    "destination": "coursework/cpp/csn/cs202/2023/pa14/Makefile",
+    "project_group": "cpp-pa14",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa14/Makefile",
+    "changes": [
+      "Removed numeric student email identifier from source comment; author/course/date retained"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa14/README.md",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "cb4d014351c65012e484c07aa08a5c130c31e0c3",
+    "destination": "coursework/cpp/csn/cs202/2023/pa14/README.md",
+    "project_group": "cpp-pa14",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa14/README.md",
+    "changes": [
+      "Resolved Markdown navigation against prepared copies or exact original snapshots"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa14/Vector.hpp",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "63c65b814c5a895792cf4c5035e1ca97b22e0c97",
+    "destination": "coursework/cpp/csn/cs202/2023/pa14/Vector.hpp",
+    "project_group": "cpp-pa14",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa14/Vector.hpp",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa14/homemade-judge.sh",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "8701314e2a2b423df877aa4ef19460dd2573980f",
+    "destination": "coursework/cpp/csn/cs202/2023/pa14/homemade-judge.sh",
+    "project_group": "cpp-pa14",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa14/homemade-judge.sh",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa14/pa14-input0.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "53e6886d1ed409168664467173556b07571607bb",
+    "destination": "coursework/cpp/csn/cs202/2023/pa14/pa14-input0.txt",
+    "project_group": "cpp-pa14",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa14/pa14-input0.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa14/pa14-input1.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "b719a54e3f1b2b705ee34dea07ffe5761d9cc05d",
+    "destination": "coursework/cpp/csn/cs202/2023/pa14/pa14-input1.txt",
+    "project_group": "cpp-pa14",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa14/pa14-input1.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa14/pa14-input2.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "852b99f30c20db1b7ad91fa16a757ef51454901f",
+    "destination": "coursework/cpp/csn/cs202/2023/pa14/pa14-input2.txt",
+    "project_group": "cpp-pa14",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa14/pa14-input2.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa14/pa14-output0.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "f705eb3178fe21972e2493c5a69e9bc1fd9b8db3",
+    "destination": "coursework/cpp/csn/cs202/2023/pa14/pa14-output0.txt",
+    "project_group": "cpp-pa14",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa14/pa14-output0.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa14/pa14-output1.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "e69a9afc17fe3e0ec27856cc9c8f9c1701e9818b",
+    "destination": "coursework/cpp/csn/cs202/2023/pa14/pa14-output1.txt",
+    "project_group": "cpp-pa14",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa14/pa14-output1.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa14/pa14-output2.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "5ebf03d31590dae3a1e33c5cfadb3e11176cbc16",
+    "destination": "coursework/cpp/csn/cs202/2023/pa14/pa14-output2.txt",
+    "project_group": "cpp-pa14",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa14/pa14-output2.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa14/pa14.cpp",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "4a74c811a1c99257ac5294c900a7ba0efa8d6c8f",
+    "destination": "coursework/cpp/csn/cs202/2023/pa14/pa14.cpp",
+    "project_group": "cpp-pa14",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa14/pa14.cpp",
+    "changes": [
+      "Removed numeric student email identifier from source comment; author/course/date retained"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa15/Makefile",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "f954b8060b4b7e4bb89d98a168716ee372ae7b42",
+    "destination": "coursework/cpp/csn/cs202/2023/pa15/Makefile",
+    "project_group": "cpp-pa15",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa15/Makefile",
+    "changes": [
+      "Removed numeric student email identifier from source comment; author/course/date retained"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa15/README.md",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "d9cb36adb30e400da6faf0bafe2439cd3c228eca",
+    "destination": "coursework/cpp/csn/cs202/2023/pa15/README.md",
+    "project_group": "cpp-pa15",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa15/README.md",
+    "changes": [
+      "Resolved Markdown navigation against prepared copies or exact original snapshots"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa15/csn-judge.sh",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "4de2ecae14cf404ac691b56a7ac6a09d9e2e6dd8",
+    "destination": "coursework/cpp/csn/cs202/2023/pa15/csn-judge.sh",
+    "project_group": "cpp-pa15",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa15/csn-judge.sh",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa15/homemade-judge.sh",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "8701314e2a2b423df877aa4ef19460dd2573980f",
+    "destination": "coursework/cpp/csn/cs202/2023/pa15/homemade-judge.sh",
+    "project_group": "cpp-pa15",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa15/homemade-judge.sh",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa15/pa15.cpp",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "b2e20799eb7ebabc80bdd6c4aafc7e17ef8f1db9",
+    "destination": "coursework/cpp/csn/cs202/2023/pa15/pa15.cpp",
+    "project_group": "cpp-pa15",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa15/pa15.cpp",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa16/Makefile",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "0084a1b8d680de7ada968ef975bc0de63477201b",
+    "destination": "coursework/cpp/csn/cs202/2023/pa16/Makefile",
+    "project_group": "cpp-pa16",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa16/Makefile",
+    "changes": [
+      "Removed numeric student email identifier from source comment; author/course/date retained"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa16/README.md",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "4a2756714776e4cf603a51e9976b09f2002db716",
+    "destination": "coursework/cpp/csn/cs202/2023/pa16/README.md",
+    "project_group": "cpp-pa16",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa16/README.md",
+    "changes": [
+      "Resolved Markdown navigation against prepared copies or exact original snapshots"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa16/pa16.cpp",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "a4a27b7bea145ce962869ef9074262985da453ea",
+    "destination": "coursework/cpp/csn/cs202/2023/pa16/pa16.cpp",
+    "project_group": "cpp-pa16",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa16/pa16.cpp",
+    "changes": [
+      "Removed numeric student email identifier from source comment; author/course/date retained"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa16/unit-tests.cpp",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "6619afe52ea7b0e1479eacda96134cbceff38778",
+    "destination": "coursework/cpp/csn/cs202/2023/pa16/unit-tests.cpp",
+    "project_group": "cpp-pa16",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa16/unit-tests.cpp",
+    "changes": [
+      "Removed numeric student email identifier from source comment; author/course/date retained"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa17b/LList-test.cxx",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "727d8a7bbcdf37fd83ee69f4adfbfb955a197fff",
+    "destination": "coursework/cpp/csn/cs202/2023/pa17b/LList-test.cxx",
+    "project_group": "cpp-pa17b",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa17b/LList-test.cxx",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa17b/LList.hpp",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "927da6683df09a98f8fa4a806df9698636356572",
+    "destination": "coursework/cpp/csn/cs202/2023/pa17b/LList.hpp",
+    "project_group": "cpp-pa17b",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa17b/LList.hpp",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa17b/Makefile",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "1517135015f1c6ffdcc4f55c209b9f19ffdeeed8",
+    "destination": "coursework/cpp/csn/cs202/2023/pa17b/Makefile",
+    "project_group": "cpp-pa17b",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa17b/Makefile",
+    "changes": [
+      "Removed numeric student email identifier from source comment; author/course/date retained"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa17b/README.md",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "63d587e2bbf443b1408392653db6e4d72cef408a",
+    "destination": "coursework/cpp/csn/cs202/2023/pa17b/README.md",
+    "project_group": "cpp-pa17b",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa17b/README.md",
+    "changes": [
+      "Resolved Markdown navigation against prepared copies or exact original snapshots"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa17b/homemade-judge.sh",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "1ac5efd324717433d11e6f67469f81094e8d11a7",
+    "destination": "coursework/cpp/csn/cs202/2023/pa17b/homemade-judge.sh",
+    "project_group": "cpp-pa17b",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa17b/homemade-judge.sh",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa17b/llist-test",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "ae40d1187bf873f1df9be7ecedb7f36814d5747e",
+    "destination": "pa17b/llist-test",
+    "project_group": "cpp-pa17b",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa17b/llist-test",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa17b/pa17b",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "f5dc0eb19471fb266ec9eb94aba5adbc93ac9b7e",
+    "destination": "pa17b/pa17b",
+    "project_group": "cpp-pa17b",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa17b/pa17b",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa17b/pa17b.cpp",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "40e63ab992973d7ce3961b763b2dc066df187ab7",
+    "destination": "coursework/cpp/csn/cs202/2023/pa17b/pa17b.cpp",
+    "project_group": "cpp-pa17b",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa17b/pa17b.cpp",
+    "changes": [
+      "Removed numeric student email identifier from source comment; author/course/date retained"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa18/LList-test.cxx",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "727d8a7bbcdf37fd83ee69f4adfbfb955a197fff",
+    "destination": "coursework/cpp/csn/cs202/2023/pa18/LList-test.cxx",
+    "project_group": "cpp-pa18",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa18/LList-test.cxx",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa18/LList.hpp",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "927da6683df09a98f8fa4a806df9698636356572",
+    "destination": "coursework/cpp/csn/cs202/2023/pa18/LList.hpp",
+    "project_group": "cpp-pa18",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa18/LList.hpp",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa18/Makefile",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "85ec8f75593156c914a64070e75eea376dbdaf3b",
+    "destination": "coursework/cpp/csn/cs202/2023/pa18/Makefile",
+    "project_group": "cpp-pa18",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa18/Makefile",
+    "changes": [
+      "Removed numeric student email identifier from source comment; author/course/date retained"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa18/Pjudge/pa18-input0.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "603ecd78c375b831f69909379db356d20fb542c2",
+    "destination": "coursework/cpp/csn/cs202/2023/pa18/Pjudge/pa18-input0.txt",
+    "project_group": "cpp-pa18",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa18/Pjudge/pa18-input0.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa18/Pjudge/pa18-input1.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "79a1a85961479b210a7c4a180d4bdfe34c8b1377",
+    "destination": "coursework/cpp/csn/cs202/2023/pa18/Pjudge/pa18-input1.txt",
+    "project_group": "cpp-pa18",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa18/Pjudge/pa18-input1.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa18/Pjudge/pa18-input2.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "604b13b27d5a551108e9f5bf6de01f1786ff271a",
+    "destination": "coursework/cpp/csn/cs202/2023/pa18/Pjudge/pa18-input2.txt",
+    "project_group": "cpp-pa18",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa18/Pjudge/pa18-input2.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa18/Pjudge/pa18-input3.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "b8d452b2edb2424af0164699586b9b76d3f88e5b",
+    "destination": "coursework/cpp/csn/cs202/2023/pa18/Pjudge/pa18-input3.txt",
+    "project_group": "cpp-pa18",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa18/Pjudge/pa18-input3.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa18/Pjudge/pa18-output0.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "56ecd4fb9aab1dc47c0baba13f4d6a9076c7ff5b",
+    "destination": "coursework/cpp/csn/cs202/2023/pa18/Pjudge/pa18-output0.txt",
+    "project_group": "cpp-pa18",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa18/Pjudge/pa18-output0.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa18/Pjudge/pa18-output1.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "55397e0e90784cc31a3d7bd5126721d27f6e0bc0",
+    "destination": "coursework/cpp/csn/cs202/2023/pa18/Pjudge/pa18-output1.txt",
+    "project_group": "cpp-pa18",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa18/Pjudge/pa18-output1.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa18/Pjudge/pa18-output2.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "4c8add87bc3ed3cc1d17b09bc86ff77c41647c23",
+    "destination": "coursework/cpp/csn/cs202/2023/pa18/Pjudge/pa18-output2.txt",
+    "project_group": "cpp-pa18",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa18/Pjudge/pa18-output2.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa18/Pjudge/pa18-output3.txt",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "b10b11c1e104f66cba50187f0b5a45c9bd631708",
+    "destination": "coursework/cpp/csn/cs202/2023/pa18/Pjudge/pa18-output3.txt",
+    "project_group": "cpp-pa18",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa18/Pjudge/pa18-output3.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa18/README.md",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "1b5aa5c7d0504d3d5b7c1d8e9f55b24ef6742242",
+    "destination": "coursework/cpp/csn/cs202/2023/pa18/README.md",
+    "project_group": "cpp-pa18",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa18/README.md",
+    "changes": [
+      "Resolved Markdown navigation against prepared copies or exact original snapshots"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa18/Stack-test.cxx",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "9ab29ba663e7e4c2d696fd62b628b73baa54ebaf",
+    "destination": "coursework/cpp/csn/cs202/2023/pa18/Stack-test.cxx",
+    "project_group": "cpp-pa18",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa18/Stack-test.cxx",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa18/Stack.hpp",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "623b372c6b245e0ab0121b44688ee605855987c6",
+    "destination": "coursework/cpp/csn/cs202/2023/pa18/Stack.hpp",
+    "project_group": "cpp-pa18",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa18/Stack.hpp",
+    "changes": [
+      "Removed numeric student email identifier from source comment; author/course/date retained"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa18/homemade-judge.sh",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "75b9517e8d47ea51de0f5877c8f827d8c5218508",
+    "destination": "coursework/cpp/csn/cs202/2023/pa18/homemade-judge.sh",
+    "project_group": "cpp-pa18",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa18/homemade-judge.sh",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa18/llist-test",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "a9c42b3fd076dd711dcad9515a38abfd97902b6a",
+    "destination": "pa18/llist-test",
+    "project_group": "cpp-pa18",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa18/llist-test",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa18/pa18",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "60c864bbed39d3f142d4aa4f9eceb9d93f80b9a6",
+    "destination": "pa18/pa18",
+    "project_group": "cpp-pa18",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa18/pa18",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa18/pa18.cpp",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "2aee7cc19bbc2cc2cdf25c2399d964f44f958b04",
+    "destination": "coursework/cpp/csn/cs202/2023/pa18/pa18.cpp",
+    "project_group": "cpp-pa18",
+    "status": "included_snapshot",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa18/pa18.cpp",
+    "changes": [
+      "Removed numeric student email identifier from source comment; author/course/date retained"
+    ]
+  },
+  {
+    "source_repository": "davidtomofficial/cpp-Examples",
+    "source_path": "pa18/stack-test",
+    "source_commit": "b0251e163a63122b2633350189e172189aa52860",
+    "source_blob_sha": "f581448344e6139ce26e82e860c20833f3305937",
+    "destination": "pa18/stack-test",
+    "project_group": "cpp-pa18",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/cpp-Examples/blob/b0251e163a63122b2633350189e172189aa52860/pa18/stack-test",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "App Development/Robindale YSA Ward/App.js",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "52299ee73fb47d67c2f5450a0c600a7d61c4f076",
+    "destination": "early-projects/community-app/App.js",
+    "project_group": "community-app",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/App%20Development/Robindale%20YSA%20Ward/App.js",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "App Development/Robindale YSA Ward/README.md",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "1364ead712a6e1d55fa9919185083f5b70d873d7",
+    "destination": "early-projects/community-app/README.md",
+    "project_group": "community-app",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/App%20Development/Robindale%20YSA%20Ward/README.md",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "App Development/Robindale YSA Ward/app.json",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "e508303d9a365dc2bedcc3eeda43f714b3bc5062",
+    "destination": "early-projects/community-app/app.json",
+    "project_group": "community-app",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/App%20Development/Robindale%20YSA%20Ward/app.json",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "App Development/Robindale YSA Ward/assets/README.md",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+    "destination": "early-projects/community-app/assets/README.md",
+    "project_group": "community-app",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/App%20Development/Robindale%20YSA%20Ward/assets/README.md",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "App Development/Robindale YSA Ward/assets/Robindale-YSA-logo.jpg",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "6cb9a3a6de156418010dbe781686bccbd0a91bbe",
+    "destination": "early-projects/community-app/assets/Robindale-YSA-logo.jpg",
+    "project_group": "community-app",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/App%20Development/Robindale%20YSA%20Ward/assets/Robindale-YSA-logo.jpg",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "App Development/Robindale YSA Ward/assets/adaptive-icon.png",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "03d6f6b6c6727954aec1d8206222769afd178d8d",
+    "destination": "early-projects/community-app/assets/adaptive-icon.png",
+    "project_group": "community-app",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/App%20Development/Robindale%20YSA%20Ward/assets/adaptive-icon.png",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "App Development/Robindale YSA Ward/assets/bibleQuotes.js",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "9dc24c0f4cb9949a820afb76ef2447d1e1495eda",
+    "destination": "early-projects/community-app/assets/bibleQuotes.js",
+    "project_group": "community-app",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/App%20Development/Robindale%20YSA%20Ward/assets/bibleQuotes.js",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "App Development/Robindale YSA Ward/assets/favicon.png",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "e75f697b1801871ad8cd9309b05e8ffe8c6b6d01",
+    "destination": "early-projects/community-app/assets/favicon.png",
+    "project_group": "community-app",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/App%20Development/Robindale%20YSA%20Ward/assets/favicon.png",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "App Development/Robindale YSA Ward/assets/icon.png",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "a0b1526fc7b78680fd8d733dbc6113e1af695487",
+    "destination": "early-projects/community-app/assets/icon.png",
+    "project_group": "community-app",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/App%20Development/Robindale%20YSA%20Ward/assets/icon.png",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "App Development/Robindale YSA Ward/assets/splash.png",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "0e89705a9436743e42954d3744a0e7ff0d3d4701",
+    "destination": "early-projects/community-app/assets/splash.png",
+    "project_group": "community-app",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/App%20Development/Robindale%20YSA%20Ward/assets/splash.png",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "App Development/Robindale YSA Ward/babel.config.js",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "2900afe9d85a54cf9552ec0b4107665c5c10e078",
+    "destination": "early-projects/community-app/babel.config.js",
+    "project_group": "community-app",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/App%20Development/Robindale%20YSA%20Ward/babel.config.js",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "App Development/Robindale YSA Ward/bugs.txt",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "fabc8845b2163e36319417f29aa2659dba1efd1d",
+    "destination": "early-projects/community-app/bugs.txt",
+    "project_group": "community-app",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/App%20Development/Robindale%20YSA%20Ward/bugs.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "App Development/Robindale YSA Ward/components/AssetExample.js",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "cdc6a3288556c096b1073a491584a65a5cb5567a",
+    "destination": "early-projects/community-app/components/AssetExample.js",
+    "project_group": "community-app",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/App%20Development/Robindale%20YSA%20Ward/components/AssetExample.js",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "App Development/Robindale YSA Ward/components/FeedbackForm.js",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "8f9975e1ea2a3248146e7d3ef7380c3231236c8f",
+    "destination": "early-projects/community-app/components/FeedbackForm.js",
+    "project_group": "community-app",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/App%20Development/Robindale%20YSA%20Ward/components/FeedbackForm.js",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "App Development/Robindale YSA Ward/components/README.md",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+    "destination": "early-projects/community-app/components/README.md",
+    "project_group": "community-app",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/App%20Development/Robindale%20YSA%20Ward/components/README.md",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "App Development/Robindale YSA Ward/components/Volunteeringform.js",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "de075c83d6396b5b2d161ab34dc384e4a088fe2a",
+    "destination": "early-projects/community-app/components/Volunteeringform.js",
+    "project_group": "community-app",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/App%20Development/Robindale%20YSA%20Ward/components/Volunteeringform.js",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "App Development/Robindale YSA Ward/components/WelcomeScreen.js",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "3e18e4978bf459c6f4bff5f397ae2deff6da9b51",
+    "destination": "early-projects/community-app/components/WelcomeScreen.js",
+    "project_group": "community-app",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/App%20Development/Robindale%20YSA%20Ward/components/WelcomeScreen.js",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "App Development/Robindale YSA Ward/node_modules/README.md",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+    "destination": "early-projects/community-app/node_modules/README.md",
+    "project_group": "community-app",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/App%20Development/Robindale%20YSA%20Ward/node_modules/README.md",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "App Development/Robindale YSA Ward/package-lock.json",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "f42b257ac1c60e2b447c8a2a954905610ace55e8",
+    "destination": "early-projects/community-app/package-lock.json",
+    "project_group": "community-app",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/App%20Development/Robindale%20YSA%20Ward/package-lock.json",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "App Development/Robindale YSA Ward/package.json",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "97abccb32d4044f9850e21ef2be6af67d4c58c42",
+    "destination": "early-projects/community-app/package.json",
+    "project_group": "community-app",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/App%20Development/Robindale%20YSA%20Ward/package.json",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "README.md",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "f288bdff24f6aa2f031c25ccbd114c4069058946",
+    "destination": "provenance/web-app-development/README.md",
+    "project_group": null,
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/README.md",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "Web Development/CIT 151 Final Project/CIT151_Final Project Plan.drawio",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "8d6f78d9132198b39eb63d60fbc27f78b670994e",
+    "destination": "coursework/web/cit-151-cafe/CIT151_Final Project Plan.drawio",
+    "project_group": "web-cit151-cafe",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/Web%20Development/CIT%20151%20Final%20Project/CIT151_Final%20Project%20Plan.drawio",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "Web Development/CIT 151 Final Project/CIT151_Final Project Plan.jpg",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "780589e0b7f3dcd0a7dc532180eae14be239e364",
+    "destination": "coursework/web/cit-151-cafe/CIT151_Final Project Plan.jpg",
+    "project_group": "web-cit151-cafe",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/Web%20Development/CIT%20151%20Final%20Project/CIT151_Final%20Project%20Plan.jpg",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "Web Development/CIT 151 Final Project/CIT151_Final Project Plan.png",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "4b7a3e59661ef3e34ee4308ac804cfbf76ecbc16",
+    "destination": "coursework/web/cit-151-cafe/CIT151_Final Project Plan.png",
+    "project_group": "web-cit151-cafe",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/Web%20Development/CIT%20151%20Final%20Project/CIT151_Final%20Project%20Plan.png",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "Web Development/CIT 151 Final Project/Main/README.md",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+    "destination": "coursework/web/cit-151-cafe/Main/README.md",
+    "project_group": "web-cit151-cafe",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/Web%20Development/CIT%20151%20Final%20Project/Main/README.md",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "Web Development/CIT 151 Final Project/Main/about.html",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "f3a8c002b5a7c66dd53c599ef0be3be18b30b526",
+    "destination": "coursework/web/cit-151-cafe/Main/about.html",
+    "project_group": "web-cit151-cafe",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/Web%20Development/CIT%20151%20Final%20Project/Main/about.html",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "Web Development/CIT 151 Final Project/Main/assets/Campus.png",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "a96b252bbb412a4351196caac867eec785cc32d4",
+    "destination": "coursework/web/cit-151-cafe/Main/assets/Campus.png",
+    "project_group": "web-cit151-cafe",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/Web%20Development/CIT%20151%20Final%20Project/Main/assets/Campus.png",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "Web Development/CIT 151 Final Project/Main/assets/Food-Service.jpg",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "9b7f671ee0be6b2f7bf719a1280d40c25683a3d4",
+    "destination": "coursework/web/cit-151-cafe/Main/assets/Food-Service.jpg",
+    "project_group": "web-cit151-cafe",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/Web%20Development/CIT%20151%20Final%20Project/Main/assets/Food-Service.jpg",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "Web Development/CIT 151 Final Project/Main/assets/README.md",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+    "destination": "coursework/web/cit-151-cafe/Main/assets/README.md",
+    "project_group": "web-cit151-cafe",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/Web%20Development/CIT%20151%20Final%20Project/Main/assets/README.md",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "Web Development/CIT 151 Final Project/Main/assets/cafeteria.png",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "b095bbca0744174f06b5c7bd8b4af7b8d8e78d46",
+    "destination": "coursework/web/cit-151-cafe/Main/assets/cafeteria.png",
+    "project_group": "web-cit151-cafe",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/Web%20Development/CIT%20151%20Final%20Project/Main/assets/cafeteria.png",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "Web Development/CIT 151 Final Project/Main/assets/csn-logo.png",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "209f508f817a7ac5ba766be475f0371f328d99b2",
+    "destination": "coursework/web/cit-151-cafe/Main/assets/csn-logo.png",
+    "project_group": "web-cit151-cafe",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/Web%20Development/CIT%20151%20Final%20Project/Main/assets/csn-logo.png",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "Web Development/CIT 151 Final Project/Main/assets/hn_union_2.jpg",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "4723809de918cba208fd809c80b53b6494171d08",
+    "destination": "coursework/web/cit-151-cafe/Main/assets/hn_union_2.jpg",
+    "project_group": "web-cit151-cafe",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/Web%20Development/CIT%20151%20Final%20Project/Main/assets/hn_union_2.jpg",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "Web Development/CIT 151 Final Project/Main/assets/marker.jpg",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "3614416579b3bbcafd7e969c883af14f6fa1f660",
+    "destination": "coursework/web/cit-151-cafe/Main/assets/marker.jpg",
+    "project_group": "web-cit151-cafe",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/Web%20Development/CIT%20151%20Final%20Project/Main/assets/marker.jpg",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "Web Development/CIT 151 Final Project/Main/assets/service.jpg",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "023179ea3ac5ad385e8f1e9e603d22a751ab441c",
+    "destination": "coursework/web/cit-151-cafe/Main/assets/service.jpg",
+    "project_group": "web-cit151-cafe",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/Web%20Development/CIT%20151%20Final%20Project/Main/assets/service.jpg",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "Web Development/CIT 151 Final Project/Main/assets/shapes.png",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "1b10fe7528a580c0797cd9ac349a05c8c79af9ff",
+    "destination": "coursework/web/cit-151-cafe/Main/assets/shapes.png",
+    "project_group": "web-cit151-cafe",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/Web%20Development/CIT%20151%20Final%20Project/Main/assets/shapes.png",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "Web Development/CIT 151 Final Project/Main/contact.html",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "61a1b989eda41b421574b041dca47903c156bc57",
+    "destination": "coursework/web/cit-151-cafe/Main/contact.html",
+    "project_group": "web-cit151-cafe",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/Web%20Development/CIT%20151%20Final%20Project/Main/contact.html",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "Web Development/CIT 151 Final Project/Main/index.html",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "8fe1f69be735e402739f01159d80702692aa7385",
+    "destination": "coursework/web/cit-151-cafe/Main/index.html",
+    "project_group": "web-cit151-cafe",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/Web%20Development/CIT%20151%20Final%20Project/Main/index.html",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "Web Development/CIT 151 Final Project/Main/modernizr.custom.40753.js",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "f782083c2e52534554b231f0f25f039672a2180a",
+    "destination": "coursework/web/cit-151-cafe/Main/modernizr.custom.40753.js",
+    "project_group": "web-cit151-cafe",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/Web%20Development/CIT%20151%20Final%20Project/Main/modernizr.custom.40753.js",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "Web Development/CIT 151 Final Project/Main/photo.html",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "1a8562f55cfc97cba512c2a5e05ada6ce46d4f7a",
+    "destination": "coursework/web/cit-151-cafe/Main/photo.html",
+    "project_group": "web-cit151-cafe",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/Web%20Development/CIT%20151%20Final%20Project/Main/photo.html",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "Web Development/CIT 151 Final Project/Main/requirements.txt",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "c67fd222f7b526df1f731f7a9276f7d7ae0c99ee",
+    "destination": "coursework/web/cit-151-cafe/Main/requirements.txt",
+    "project_group": "web-cit151-cafe",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/Web%20Development/CIT%20151%20Final%20Project/Main/requirements.txt",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "Web Development/CIT 151 Final Project/Main/styles.css",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "5937244a0698ccae021c3d9737388309a4800d2c",
+    "destination": "coursework/web/cit-151-cafe/Main/styles.css",
+    "project_group": "web-cit151-cafe",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/Web%20Development/CIT%20151%20Final%20Project/Main/styles.css",
+    "changes": []
+  },
+  {
+    "source_repository": "davidtomofficial/Web-App-Development",
+    "source_path": "Web Development/CIT 151 Final Project/README.md",
+    "source_commit": "0a638f35ef0e47ddda5c324e8d938a33a8ba63f9",
+    "source_blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+    "destination": "coursework/web/cit-151-cafe/README.md",
+    "project_group": "web-cit151-cafe",
+    "status": "held_at_origin",
+    "source_url": "https://github.com/davidtomofficial/Web-App-Development/blob/0a638f35ef0e47ddda5c324e8d938a33a8ba63f9/Web%20Development/CIT%20151%20Final%20Project/README.md",
+    "changes": []
+  }
+]
